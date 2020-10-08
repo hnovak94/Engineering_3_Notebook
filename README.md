@@ -106,12 +106,30 @@ I learned how to pull in extra parts from Onshape i.e. nuts and bolts, and how t
 
 <img src= "https://github.com/hnovak94/Onshape_BasicCAD/blob/master/media/dowel_pin.png" height= "150"> <img src= "https://github.com/hnovak94/Onshape_BasicCAD/blob/master/media/dowelpin_config.png" height= "300">
 
+[Dowel Pins Document](https://cvilleschools.onshape.com/documents/8529d9f401ba080f55f9b9e3/w/00e209e0c34a6ca9d39b9c88/e/360861398ecf0ad4d173e6b4)
+
+#### What I learned
+
+This assignment I learned how to use configurations, which avoids the need for making copies of a part. With configurations you can choose which version of a feature you want for the part in assembly. For the dowel pins in particular the configured elements were the diameter of the pin, the length of the pin, and whether or not the pin had a chamfer. Two of the configurations, length and diameter, are shown above to the right. 
+
 ### Frame Parts
 <img src= "https://github.com/hnovak94/Onshape_BasicCAD/blob/master/media/frame_config.png" height= "250">
+
+[Frame Document](https://cvilleschools.onshape.com/documents/8529d9f401ba080f55f9b9e3/w/00e209e0c34a6ca9d39b9c88/e/d684d0beaf9e8740c0fb3ab4)
+
+#### What I learned
+
+For this part I had to use configurations again to make the two different lengths of frame. That configuration is shown above. The two different lengths are 12 in and 10 in. 
 
 ### Assembly 
 
 <img src= "https://github.com/hnovak94/Onshape_BasicCAD/blob/master/media/frame_dowelpins.png" height= "250">
+
+[Frame + Pins Assembly Document](https://cvilleschools.onshape.com/documents/8529d9f401ba080f55f9b9e3/w/00e209e0c34a6ca9d39b9c88/e/a21649dac35af99739619c48)
+
+#### What I learned
+
+For this assignment I learned how to manipulate the configurations in assembly to ensure that I had the size I wanted. 
 
 
 
