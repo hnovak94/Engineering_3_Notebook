@@ -100,4 +100,12 @@ I learned how to pull in extra parts from Onshape i.e. nuts and bolts, and how t
 
 ### Final Assembly
 
+## Dorothy's Dowel Pins
+
+### Pins
+
+### Frame Parts
+
+### Assembly 
+
 
