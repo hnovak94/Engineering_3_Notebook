@@ -104,8 +104,14 @@ I learned how to pull in extra parts from Onshape i.e. nuts and bolts, and how t
 
 ### Pins
 
+<img src= "https://github.com/hnovak94/Onshape_BasicCAD/blob/master/media/dowel_pin.png" height= "150"> <img src= "https://github.com/hnovak94/Onshape_BasicCAD/blob/master/media/dowelpin_config.png" height= "300">
+
 ### Frame Parts
+<img src= "https://github.com/hnovak94/Onshape_BasicCAD/blob/master/media/frame_config.png" height= "250">
 
 ### Assembly 
+
+<img src= "https://github.com/hnovak94/Onshape_BasicCAD/blob/master/media/frame_dowelpins.png" height= "250">
+
 
 
