@@ -30,25 +30,47 @@ For this part I learned how to use the chamfer, fillet, and mirror features in O
 
 <img src= "https://github.com/hnovak94/Onshape_BasicCAD/blob/master/media/caster_wheel.png" height= "250">
 
+#### What I learned
+
+For this part we had to use the revolve feature to make the initial wheel, acircular pattern to do the spokes of the wheel, the fillet tool, and extruded cuts. 
+
 ### Tire
 
 <img src= "https://github.com/hnovak94/Onshape_BasicCAD/blob/master/media/caster_tire.png" height= "250">
+
+#### What I learned
+
+This part didn't use any new functions; it was merely the revolving of a trapezoid and fillet. 
 
 ### Washer/Big Bearing
 
 <img src= "https://github.com/hnovak94/Onshape_BasicCAD/blob/master/media/caster_washer.png" height= "250">
 
+#### What I learned
+
 ### Axle + Collar
 
 <img src= "https://github.com/hnovak94/Onshape_BasicCAD/blob/master/media/caster_axlecollar.png" height= "250">
+
+#### What I learned
+
+I learned how to make multiple parts within a part studio that share the same geometry. To make the collar we had to select "new" under extrusion instead of "add". 
 
 ### Sub-Assembly: Wheel, Tire, Axle, Bearing, + Collar
 
 <img src= "https://github.com/hnovak94/Onshape_BasicCAD/blob/master/media/caster_wheel_tire_bearing.png" height= "250">
 
+#### What I learned
+
+This assignment was the first time I used mates in Onshape. I learned how to use fasten mates vs. revolute mates, which allow the part to revolve
+
 ### Final Assembly
 
 <img src= "https://github.com/hnovak94/Onshape_BasicCAD/blob/master/media/caster_assembly.png" height= "250">
+
+#### What I learned
+
+I learned how to pull in extra parts from Onshape i.e. nuts and bolts, and how to apply them to the assembly. This assembly also required fasten and revolve mates in different places. 
 
 ## Onshape Challenge
 
