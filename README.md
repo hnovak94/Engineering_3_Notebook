@@ -93,12 +93,21 @@ I learned how to pull in extra parts from Onshape i.e. nuts and bolts, and how t
 ## Onshape Challenge
 
 ### Cube
+<img src= "https://github.com/hnovak94/Onshape_BasicCAD/blob/master/media/oc_cube.png" height= "250">
 
 ### Spinner Shaft
 
+<img src= "https://github.com/hnovak94/Onshape_BasicCAD/blob/master/media/oc_fork.png" height= "250">
+
+
 ### Bracket
 
+<img src= "https://github.com/hnovak94/Onshape_BasicCAD/blob/master/media/oc_bracket.png" height= "250">
+
+
 ### Final Assembly
+
+<img src= "https://github.com/hnovak94/Onshape_BasicCAD/blob/master/media/oc_assembly.png" height= "250">
 
 ## Dorothy's Dowel Pins
 
